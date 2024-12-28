@@ -1,5 +1,4 @@
 package ge.automation.pages;
-
 import ge.automation.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
